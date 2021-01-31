@@ -1,7 +1,14 @@
-#include <file.h>
 
 
-#ifndef _FILE_H
-#define _FILE_H
 
-#endif
+int dodawanie(int a,int b)
+{
+   return 0;
+}
+int odejmowanie(int a,int b)
+{
+   return 0;
+}
+
+
+
