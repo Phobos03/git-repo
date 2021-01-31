@@ -11,6 +11,8 @@ int dodawanie(int a,int b)
   return a+b;
 }
 
+int daniel = 0;
+
 
 int main()
 {
